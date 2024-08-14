@@ -1,0 +1,4 @@
+ativar o ambiente virtual do python;
+
+$ source .venv/bin/activate
+
